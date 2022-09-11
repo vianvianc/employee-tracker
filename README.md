@@ -1,5 +1,11 @@
 # employee-tracker
 
+This app is a CLI that is a CMS to manage a company's employee database.
+Here is a video demostrating its functionality:
+https://watch.screencastify.com/v/fcoRmR5BoeMG3hxo3SnT
+
+USER STORY
+
 GIVEN a command-line application that accepts user input
 WHEN I start the application
 THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
